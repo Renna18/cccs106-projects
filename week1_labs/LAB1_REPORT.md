@@ -48,6 +48,6 @@
 - Understood the importance of error handling and environment configuration.  
 
 ## Screenshots
-![Hello World Output](screenshots/hello_output.png)
-![Calculator Output](screenshots/calc_output.png)
+![Hello World Output](week1_labs/program1.png)
+![Calculator Output](week1_labs/basiccal.png)
 
