@@ -64,20 +64,20 @@
 ## Screenshots
 
 ### Git Repository
-![GitHub Repository Screenshot](images\git_repo.PNG)
+![GitHub Repository Screenshot](images/git_repo.PNG)
 
 ### GUI Applications
 - **Hello App**
-  ![Hello Flet](images\say_hello.PNG)
+  ![Hello Flet](images/say_hello.PNG)
 
 - **Personal Info Form**
-  ![Personal Info Form](images\gui_personal_info.PNG)
+  ![Personal Info Form](images/gui_personal_info.PNG)
 
 - **Profile Generated**
-  ![Profile Output](images\with_info.PNG)
+  ![Profile Output](images/with_info.PNG)
 
 - **Info Screenshot**
-  ![Info](images\info.PNG)
+  ![Info](images/info.PNG)
 
 ## Future Enhancements
 
