@@ -1,7 +1,7 @@
 # hello_world.py
 # CCCS 106 - Week 1 Lab Exercise
-# Student: Renna Israel
-# Date: 2025-08-21
+# Student: [Renna]
+# Date: [August 21, 2025]
 
 print("=" * 50)
 print("CCCS 106: Application Development and Emerging Technologies")
@@ -12,7 +12,7 @@ print("=" * 50)
 print("Hello, World!")
 print("Welcome to Python programming!")
 
-# Student information
+# Student information (replace with your details)
 student_name = "Renna Israel"
 student_id = "231002318"
 program = "Bachelor of Science in Computer Science"
@@ -26,7 +26,7 @@ print(f"Year Level: {year_level}")
 
 # Basic calculations
 current_year = 2025
-birth_year = 2005
+birth_year = 2005  # Replace with your birth year
 age = current_year - birth_year
 
 print(f"\nAge Calculation:")
