@@ -48,6 +48,7 @@ cd week2_labs
 # Run applications
 python hello_flet.py
 python personal_info_gui.py
+
 Commit and push README.md
 
 # Add the updated README.md file to the staging area
