@@ -49,7 +49,7 @@ cd week2_labs
 python hello_flet.py
 python personal_info_gui.py
 
-Commit and push README.md
+**Commit and push README.md**
 
 # Add the updated README.md file to the staging area
 # This stages the modified README.md file so it will be included in the next commit
