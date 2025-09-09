@@ -4,10 +4,10 @@ Academic Year 2025-2026
 ECHO is on.
 
 ## Student Information
-- **Name:** [Renna Martinez Israel]
-- **Student ID:** [231002318]
-- **Program:** [Computer Science]
-- **Section:** [A]
+- **Name:** Renna Martinez Israel
+- **Student ID:** 231002318
+- **Program:** Computer Science
+- **Section:** A
 
 ## Repository Structure 
 - week1_labs/ - Environment setup and Python basics 
