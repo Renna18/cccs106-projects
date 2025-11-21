@@ -15,6 +15,7 @@ ECHO is on.
 - week3_labs/ - Flet User Login Application
 - week4_labs/ - Contact Book App
 - module1_final/ - Module 1 final project
+- mod6_labs/ – Module 6 labs including Weather App
 
 ### Week 1 Labs – Python Basics
 - `week1_labs/hello_world.py` – Python program, prints "Hello World".
@@ -42,6 +43,14 @@ ECHO is on.
 
 ### Module 1 Final Project
 - `module1_final/` - Final integrated project (TBD)
+
+### Module 6 Labs – Weather App & Exercises 
+- mod6_labs/weather_app/ – Main weather application.
+- main.py – Main program file.
+- weather_service.py – Handles API requests for weather data.
+- config.py – Configuration for API keys.
+- search_history.json – Stores search history.
+- venv/ – Virtual environment for dependencies (ignored in git).
 
 ## Technologies Used
 - **Python 3.8+** - Main programming language
